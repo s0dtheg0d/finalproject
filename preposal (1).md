@@ -2,12 +2,15 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+VST for ableton
+DND dice simulator
+Application for nutrition
+Application for dietary restrictions
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+no one
 
 ## Do you have any questions of your own?
 
-TODO
+how would I even go about doing a vst or a dnd type program?
