@@ -2,7 +2,7 @@
 
 ## What idea(s) do you have for your final project?
 
-VST for ableton
+VST for ableton \n
 DND combat simulator
 Application for nutrition
 Application for dietary restrictions
