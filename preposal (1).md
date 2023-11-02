@@ -7,6 +7,7 @@ DND combat simulator
 Application for nutrition
 Application for dietary restrictions
 Simulate board games
+Chat bot
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
