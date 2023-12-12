@@ -828,19 +828,3 @@ submitDPR.grid(pady=5, sticky=tk.N)
 displayAnswer.grid(pady=10)
 
 window.mainloop()
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
